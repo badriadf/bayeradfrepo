@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "*.csv",
 				"fileSystem": "bayerhackathon14feb2025"
 			},
 			"columnDelimiter": ",",
